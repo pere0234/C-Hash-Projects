@@ -1,1 +1,1 @@
-# A Simple Number Guessing Game using C#
+# A simple number guessing game using C#
