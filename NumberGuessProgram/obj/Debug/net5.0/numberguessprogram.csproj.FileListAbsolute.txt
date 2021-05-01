@@ -1,0 +1,16 @@
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\numberguessprogram.exe
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\numberguessprogram.deps.json
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\numberguessprogram.runtimeconfig.json
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\numberguessprogram.runtimeconfig.dev.json
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\numberguessprogram.dll
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\ref\numberguessprogram.dll
+C:\Algonquin\numberguessprogram\bin\Debug\net5.0\numberguessprogram.pdb
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.csprojAssemblyReference.cache
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.AssemblyInfoInputs.cache
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.AssemblyInfo.cs
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.csproj.CoreCompileInputs.cache
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.dll
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\ref\numberguessprogram.dll
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.pdb
+C:\Algonquin\numberguessprogram\obj\Debug\net5.0\numberguessprogram.genruntimeconfig.cache
