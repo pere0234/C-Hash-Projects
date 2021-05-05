@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Algonquin\\numberguessprogram\\numberguessprogram.csproj": {}
+    "C:\\Algonquin\\C-Sharp-Projects\\NumberGuessProgram\\numberguessprogram.csproj": {}
   },
   "projects": {
-    "C:\\Algonquin\\numberguessprogram\\numberguessprogram.csproj": {
+    "C:\\Algonquin\\C-Sharp-Projects\\NumberGuessProgram\\numberguessprogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Algonquin\\numberguessprogram\\numberguessprogram.csproj",
+        "projectUniqueName": "C:\\Algonquin\\C-Sharp-Projects\\NumberGuessProgram\\numberguessprogram.csproj",
         "projectName": "numberguessprogram",
-        "projectPath": "C:\\Algonquin\\numberguessprogram\\numberguessprogram.csproj",
+        "projectPath": "C:\\Algonquin\\C-Sharp-Projects\\NumberGuessProgram\\numberguessprogram.csproj",
         "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-        "outputPath": "C:\\Algonquin\\numberguessprogram\\obj\\",
+        "outputPath": "C:\\Algonquin\\C-Sharp-Projects\\NumberGuessProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEHLmSyRYpjeV71wNGUag8XOnbmghLmAJa1HpHogtYLF4MBXOXN0OiK0iZRRlhVxcZ1/0hDAf9MTKfsyqTsDpQ==",
+  "dgSpecHash": "hvbjlgWdVcGwzXyMulPbJc7NtyLyyh0zWdLgNv08sUKlJbWqRwQVQb08mY2dl2KsRCGs85KOFFDirIvkEw6bmA==",
   "success": true,
-  "projectFilePath": "C:\\Algonquin\\numberguessprogram\\numberguessprogram.csproj",
+  "projectFilePath": "C:\\Algonquin\\C-Sharp-Projects\\NumberGuessProgram\\numberguessprogram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
